@@ -10,6 +10,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/SaiSiddharth1/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -19,6 +20,7 @@
 | [0101-symmetric-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/SaiSiddharth1/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -36,6 +39,7 @@
 | [0101-symmetric-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Array
@@ -63,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
