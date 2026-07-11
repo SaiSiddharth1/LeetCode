@@ -14,15 +14,17 @@
  * }
  */
 class Solution {
+    int idx = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
         if(preorder == null) return null;
-        return bst(preorder,Integer.MAX_VALUE,new int[]{0});
+        return bst(preorder,Integer.MAX_VALUE);
     }
-    TreeNode bst(int[] arr,int bound,int[] idx){
-        if(idx[0] == arr.length || arr[idx[0]] > bound) return null;
-        TreeNode root = new TreeNode(arr[idx[0]++]);
-        root.left = bst(arr,root.val,idx);
-        root.right = bst(arr,bound,idx);
+    TreeNode bst(int[] arr,int bound){
+        if(idx == arr.length || arr[idx] > bound) return null;
+        TreeNode root = new TreeNode(arr[idx]);
+        idx++;
+        root.left = bst(arr,root.val);
+        root.right = bst(arr,bound);
         return root;
     }
 }
