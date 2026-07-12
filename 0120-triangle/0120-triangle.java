@@ -2,15 +2,19 @@ class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int row = triangle.size();
         int col = triangle.get(row - 1).size();
-        Integer[][] dp = new Integer[row][col];
-        return solve(0,0,row,col,triangle,dp);
-    }
-
-    int solve(int i,int j,int r,int c,List<List<Integer>> t,Integer[][] dp){
-        if(i == r - 1) return t.get(i).get(j);
-        if(dp[i][j] != null) return dp[i][j];
-        int d = solve(i+1,j,r,c,t,dp);
-        int dr = solve(i+1,j + 1,r,c,t,dp);
-        return dp[i][j] = t.get(i).get(j) + Math.min(d,dr);
+        List<Integer> front = new ArrayList<>(); 
+        for(int j = 0 ; j < col ; j++){
+            front.add(triangle.get(row - 1).get(j));
+        }
+        for(int i = row - 2 ; i >= 0 ; i--){
+            List<Integer> curr = new ArrayList<>();
+            for(int j = 0 ; j <= i ; j++){
+                int d = front.get(j);
+                int dr = front.get(j + 1);
+               curr.add(triangle.get(i).get(j) +  Math.min(d,dr));
+            }
+            front = curr;
+        }
+        return front.get(0);
     }
 }
