@@ -61,11 +61,13 @@
 | [0015-3sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
