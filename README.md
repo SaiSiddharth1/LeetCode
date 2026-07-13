@@ -17,6 +17,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SaiSiddharth1/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
@@ -26,6 +27,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +43,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SaiSiddharth1/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
@@ -55,6 +58,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,9 +109,14 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
