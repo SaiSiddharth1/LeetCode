@@ -5,27 +5,21 @@ class Solution {
             sum += i;
         }
         if(sum % 2 == 1) return false;
-        int[][] memo = new int[nums.length][(sum / 2) + 1];
-        for(int[] arr : memo){
-            Arrays.fill(arr,-1);
+        int target = (sum / 2);
+        boolean[][] tabu = new boolean[nums.length][target + 1];
+        for(int i = 0 ; i < nums.length ; i++){
+            tabu[i][0] = true;
         }
-        return solve(nums.length - 1,sum/2,nums,memo);
-    }
-
-    boolean solve(int idx,int target,int[] nums,int[][] memo){
-        if(target == 0) return true;
-        if(idx < 0) return false;
-        if(memo[idx][target] != -1){
-            if(memo[idx][target] == 1) return true;
-            return false;
+        for(int i = 1 ; i < nums.length ; i++){
+            for(int j = 1 ; j < target + 1 ; j++){
+                boolean nT = tabu[i - 1][j];
+                boolean t = false;
+                if(i - 1 >= 0 && j - nums[i] >= 0){
+                    t = tabu[i - 1][j - nums[i]];
+                }
+                tabu[i][j] = nT || t;
+            }
         }
-        boolean notTake = solve(idx - 1,target,nums,memo);
-        boolean take = false;
-        if(nums[idx] <= target){
-            take = solve(idx - 1,target - nums[idx],nums,memo);
-        }
-        boolean ans = notTake || take;
-        memo[idx][target] = (ans) ? 1 : 0;
-        return ans;
+        return tabu[nums.length - 1][sum/2];
     }
 }
