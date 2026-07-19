@@ -14,7 +14,7 @@ class Solution {
             for(int j = 1 ; j < target + 1 ; j++){
                 boolean nT = tabu[i - 1][j];
                 boolean t = false;
-                if(i - 1 >= 0 && j - nums[i] >= 0){
+                if(nums[i] <= j){
                     t = tabu[i - 1][j - nums[i]];
                 }
                 tabu[i][j] = nT || t;
