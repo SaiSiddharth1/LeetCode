@@ -10,6 +10,10 @@ class Solution {
         for(int i = 0 ; i < nums.length ; i++){
             tabu[i][0] = true;
         }
+
+        if(nums[0] <= target){
+            tabu[0][nums[0]] = true;
+        }
         for(int i = 1 ; i < nums.length ; i++){
             for(int j = 1 ; j < target + 1 ; j++){
                 boolean nT = tabu[i - 1][j];
