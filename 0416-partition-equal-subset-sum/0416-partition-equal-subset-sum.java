@@ -6,24 +6,24 @@ class Solution {
         }
         if(sum % 2 == 1) return false;
         int target = (sum / 2);
-        boolean[][] tabu = new boolean[nums.length][target + 1];
-        for(int i = 0 ; i < nums.length ; i++){
-            tabu[i][0] = true;
-        }
+        boolean[] opti = new boolean[target + 1];
 
+        opti[0] = true;
         if(nums[0] <= target){
-            tabu[0][nums[0]] = true;
+            opti[nums[0]] = true;
         }
         for(int i = 1 ; i < nums.length ; i++){
+            boolean[] curr = new boolean[target + 1];
             for(int j = 1 ; j < target + 1 ; j++){
-                boolean nT = tabu[i - 1][j];
+                boolean nT = opti[j];
                 boolean t = false;
                 if(nums[i] <= j){
-                    t = tabu[i - 1][j - nums[i]];
+                    t = opti[j - nums[i]];
                 }
-                tabu[i][j] = nT || t;
+                curr[j] = nT || t;
             }
+            opti = curr;
         }
-        return tabu[nums.length - 1][sum/2];
+        return opti[target];
     }
 }
