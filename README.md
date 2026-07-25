@@ -110,6 +110,7 @@
 | [0002-add-two-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SaiSiddharth1/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 ## Sliding Window
@@ -152,6 +154,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -185,4 +188,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
