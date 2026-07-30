@@ -33,7 +33,6 @@ class Solution {
                 int rsz = n - sz;
                 List<Integer> ls = right.get(rsz);
                 int itr = lowerBound(ls,b);
-
                 if(itr != ls.size()){
                     res = Math.min(res,Math.abs(sum - 2 * (a + ls.get(itr))));
                 }
@@ -42,6 +41,7 @@ class Solution {
                     it--;
                     res = Math.min(res,Math.abs(sum - 2 * (a + ls.get(it))));
                 }
+                if(res == 0) return 0;
             }
         }
         return res;
