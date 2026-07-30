@@ -81,6 +81,7 @@
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,12 +102,14 @@
 | [0015-3sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +138,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +200,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
