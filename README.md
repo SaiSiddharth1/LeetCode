@@ -148,6 +148,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SaiSiddharth1/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 ## Sliding Window
@@ -212,4 +213,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
