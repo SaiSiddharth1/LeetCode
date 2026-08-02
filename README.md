@@ -120,6 +120,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -216,5 +217,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
