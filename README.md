@@ -14,6 +14,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -28,6 +29,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -43,6 +45,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -58,6 +61,7 @@
 | [0110-balanced-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
