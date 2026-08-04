@@ -1,27 +1,23 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int[][] memo = new int[n][amount + 1];
-        for(int[] arr : memo){
-            Arrays.fill(arr,-1);
+        int[][] tabu = new int[n][amount + 1];
+        for(int t = 0 ; t <= amount ; t++){
+            if(t % coins[0] == 0) tabu[0][t] = t / coins[0];
+            else tabu[0][t] = (int) 1e8;
         }
-        int ans = solve(n - 1,amount,coins,memo);
-        return (ans == (int) 1e8) ? -1 : ans;
-    }
 
-    public int solve(int idx,int target,int[] arr,int[][] memo){
-        if(idx == 0){
-            if(target % arr[idx] == 0){
-                return target / arr[idx];
+        for(int idx = 1 ; idx < n ; idx++){
+            for(int target = 0 ; target <= amount ; target++){
+                int nT = tabu[idx - 1][target];
+                int t = (int) 1e8;
+                if(coins[idx] <= target){
+                    t = 1 + tabu[idx][target - coins[idx]];
+                }
+                tabu[idx][target] = Math.min(t,nT);
             }
-            return (int) 1e8;
-        }
-        if(memo[idx][target] != -1) return memo[idx][target]; 
-        int nT = solve(idx - 1,target,arr,memo);
-        int t = (int) 1e8;
-        if(arr[idx] <= target){
-            t = 1 + solve(idx,target - arr[idx],arr,memo);
-        }
-        return memo[idx][target] = Math.min(t,nT);
+        }  
+        int ans = tabu[n-1][amount];
+        return (ans == (int) 1e8) ? -1 : ans;
     }
 }
