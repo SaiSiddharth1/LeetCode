@@ -235,8 +235,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
