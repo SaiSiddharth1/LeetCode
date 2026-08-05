@@ -174,6 +174,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiSiddharth1/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/SaiSiddharth1/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/SaiSiddharth1/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Design
