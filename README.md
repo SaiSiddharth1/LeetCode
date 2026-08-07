@@ -100,6 +100,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
@@ -238,6 +239,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiSiddharth1/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,4 +255,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
