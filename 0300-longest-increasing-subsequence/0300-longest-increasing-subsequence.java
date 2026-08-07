@@ -1,8 +1,8 @@
 class Solution {
-    int[][] memo;
-    public int lengthOfLIS(int[] nums) {
+    int[][] tabu;
+    public int lengthOfLIS(int[] nums1) {
         Set<Integer> s = new TreeSet<>();
-        for(int i : nums){
+        for(int i : nums1){
             s.add(i);
         }
         int x = 0;
@@ -10,19 +10,19 @@ class Solution {
         for(int i : s){
             nums2[x++] = i; 
         }
-        memo = new int[nums.length][nums2.length];
-        for(int[] arr : memo){
-            Arrays.fill(arr,-1);
+        int n = nums1.length;
+        int m = nums2.length;
+        tabu = new int[n + 1][m + 1];
+        for(int i = n - 1 ; i >= 0 ; i--){
+            for(int j = m - 1 ; j >= 0 ; j--){
+                if(nums1[i] == nums2[j]) tabu[i][j] = 1 + tabu[i + 1][j+1];
+                else{
+                    int op1 = tabu[i + 1][j];
+                    int op2 = tabu[i][j + 1];
+                    tabu[i][j] = Math.max(op1,op2);
+                }
+            }
         }
-        return lcs(0,0,nums,nums2);
-    }
-
-    int lcs(int i,int j,int[] nums1,int[] nums2){
-        if(i >= nums1.length || j >= nums2.length) return 0;
-        if(nums1[i] == nums2[j]) return 1 + lcs(i + 1,j+1,nums1,nums2);
-        if(memo[i][j] != -1) return memo[i][j];
-        int op1 = lcs(i + 1,j,nums1,nums2);
-        int op2 = lcs(i,j + 1,nums1,nums2);
-        return memo[i][j] = Math.max(op1,op2);
+        return tabu[0][0];
     }
 }
