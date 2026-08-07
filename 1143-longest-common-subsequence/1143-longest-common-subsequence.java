@@ -1,25 +1,27 @@
 class Solution {
     String s1;
     String s2;
-    int[][] tabu;
+    int[] opti;
     public int longestCommonSubsequence(String text1, String text2) {
         s1 = text1;
         s2 = text2;
         int n = s1.length();
         int m = s2.length();
-        tabu = new int[n + 1][m + 1];
-        
+        opti = new int[m + 1];
+
         for(int i = n - 1 ; i >= 0 ; i--){
+            int[] temp = new int[m + 1];
             for(int j = m - 1 ; j >= 0 ; j--){
                 if(s1.charAt(i) == s2.charAt(j)) {
-                    tabu[i][j] = 1 + tabu[i + 1][j+ 1];
+                    temp[j] = 1 + opti[j + 1];
                     continue;
                 }
-                int op1 = tabu[i+1][j];
-                int op2 = tabu[i][j + 1];
-                tabu[i][j] = Math.max(op1,op2);
+                int op1 = opti[j];
+                int op2 = temp[j + 1];
+                temp[j] = Math.max(op1,op2);
             }
+            opti = temp;
         }
-        return tabu[0][0];
+        return opti[0];
     }
 }
