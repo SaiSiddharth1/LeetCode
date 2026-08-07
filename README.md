@@ -80,6 +80,7 @@
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -149,6 +151,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
@@ -259,4 +262,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
