@@ -11,12 +11,12 @@ class Solution {
         for(int[] arr : memo){
             Arrays.fill(arr,-1);
         }
-        return (n  + m) - 2 * solve(n - 1,m - 1);
+        return (n  + m) - 2 * solve(n,m);
     }
     int solve(int i,int j){
-        if(i < 0 || j < 0) return 0;
+        if(i == 0 || j == 0) return 0;
         if(memo[i][j] != -1) return memo[i][j]; 
-        if(s1.charAt(i) == s2.charAt(j)){
+        if(s1.charAt(i - 1) == s2.charAt(j - 1)){
             return memo[i][j] = 1 + solve(i - 1,j - 1);
         }
         int op1 = solve(i - 1,j);
