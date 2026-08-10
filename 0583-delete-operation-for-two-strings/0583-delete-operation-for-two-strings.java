@@ -1,26 +1,24 @@
 class Solution {
     String s1;
     String s2;
-    int[][] memo;
+    int[][] tabu;
     public int minDistance(String word1, String word2) {
         this.s1 = word1;
         this.s2 = word2;
         int n = s1.length();
         int m = s2.length();
-        memo = new int[n + 1][m + 1];
-        for(int[] arr : memo){
-            Arrays.fill(arr,-1);
+        tabu = new int[n + 1][m + 1];
+        for(int i = 1 ; i <= n ; i++){
+            for(int j = 1 ; j <= m ; j++){
+                if(s1.charAt(i - 1) == s2.charAt(j - 1)){
+                    tabu[i][j] = 1 + tabu[i - 1][j - 1];
+                    continue;
+                }
+                int op1 = tabu[i - 1][j];
+                int op2 = tabu[i][j - 1];
+                tabu[i][j] = Math.max(op1,op2);
+            }
         }
-        return (n  + m) - 2 * solve(n,m);
-    }
-    int solve(int i,int j){
-        if(i == 0 || j == 0) return 0;
-        if(memo[i][j] != -1) return memo[i][j]; 
-        if(s1.charAt(i - 1) == s2.charAt(j - 1)){
-            return memo[i][j] = 1 + solve(i - 1,j - 1);
-        }
-        int op1 = solve(i - 1,j);
-        int op2 = solve(i ,j - 1);
-        return memo[i][j] = Math.max(op1,op2);
+        return (n  + m) - 2 * tabu[n][m];
     }
 }
