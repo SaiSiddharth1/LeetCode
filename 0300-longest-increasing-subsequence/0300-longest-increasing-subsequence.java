@@ -1,28 +1,33 @@
 class Solution {
-    int[][] tabu;
-    public int lengthOfLIS(int[] nums1) {
+    int[] nums1;
+    int[] nums2;
+    int[][] dp;
+    public int lengthOfLIS(int[] nums) {
         Set<Integer> s = new TreeSet<>();
-        for(int i : nums1){
-            s.add(i);
+        nums1 = nums;
+        int n = nums.length;
+        for(int i = 0 ; i < n ; i++){
+            s.add(nums[i]);
         }
-        int x = 0;
-        int[] nums2 = new int[s.size()];
+        int m = s.size();
+        nums2 = new int[m];
+        int idx = 0;
         for(int i : s){
-            nums2[x++] = i; 
+            this.nums2[idx++] = i;
         }
-        int n = nums1.length;
-        int m = nums2.length;
-        tabu = new int[n + 1][m + 1];
-        for(int i = n - 1 ; i >= 0 ; i--){
-            for(int j = m - 1 ; j >= 0 ; j--){
-                if(nums1[i] == nums2[j]) tabu[i][j] = 1 + tabu[i + 1][j+1];
-                else{
-                    int op1 = tabu[i + 1][j];
-                    int op2 = tabu[i][j + 1];
-                    tabu[i][j] = Math.max(op1,op2);
-                }
-            }
+        dp = new int[n + 1][m + 1];
+        for(int[] arr : dp) Arrays.fill(arr,-1);
+
+        return solve(n,m);
+    }
+    int solve(int i,int j){
+        if(i == 0 || j == 0) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        if(nums1[i - 1] == nums2[j - 1]){
+            return dp[i][j] = 1 + solve(i-1,j-1);
         }
-        return tabu[0][0];
+        int op1 = solve(i-1,j);
+        int op2 = solve(i,j-1);
+        return dp[i][j] = Math.max(op1,op2);
     }
 }
