@@ -1,24 +1,25 @@
 class Solution {
     String s,t;
-    int[][] tabu;
+    int[] opti;
     public int numDistinct(String s, String t) {
         this.s = s;
         this.t = t;
         int n = s.length();
         int m = t.length();
-        tabu = new int[n + 1][m + 1];
-        for(int i = 0 ; i <= n ; i++){
-            tabu[i][0] = 1;
-        }
+        opti = new int[m + 1];
+        opti[0] = 1;
         for(int i = 1 ; i <= n ; i++){
+            int[] temp = new int[m + 1];
+            temp[0] = 1;
             for(int j = 1 ; j <= m ; j++){
                 if(s.charAt(i - 1) == t.charAt(j - 1)){
-                    tabu[i][j] = tabu[i-1][j-1] + tabu[i-1][j]; 
+                    temp[j] = opti[j-1] + opti[j]; 
                     continue;
                 }
-                tabu[i][j] = tabu[i-1][j];
+                temp[j] = opti[j];
             }
+            opti = temp;
         }
-        return tabu[n][m];
+        return opti[m];
     }
 }
