@@ -96,6 +96,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0063-unique-paths-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/SaiSiddharth1/LeetCode/tree/main/0072-edit-distance/) | Medium |
@@ -224,9 +225,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiSiddharth1/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/SaiSiddharth1/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SaiSiddharth1/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
