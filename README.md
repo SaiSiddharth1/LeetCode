@@ -81,6 +81,7 @@
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -102,6 +103,7 @@
 | [0072-edit-distance](https://github.com/SaiSiddharth1/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SaiSiddharth1/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -175,6 +177,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiSiddharth1/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/SaiSiddharth1/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -256,6 +259,7 @@
 | [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/SaiSiddharth1/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SaiSiddharth1/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiSiddharth1/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -287,4 +291,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
