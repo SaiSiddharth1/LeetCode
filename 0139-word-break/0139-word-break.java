@@ -9,16 +9,16 @@ class Solution {
         for(String ss : wordDict){
             set.add(ss);
         }
-        return solve(0);
+        return solve(s.length() - 1);
     }
 
     boolean solve(int idx){
-        if(idx == s.length()) return true;
+        if(idx < 0) return true;
         if(memo[idx] != null) return memo[idx];
-        for(int end = idx + 1 ; end <= s.length() ; end++){
-            String word = s.substring(idx,end);
+        for(int start = 0 ; start <= idx ; start++){
+            String word = s.substring(start,idx + 1);
             if(set.contains(word)){
-                if(solve(end)){
+                if(solve(start - 1)){
                     return memo[idx] = true;
                 }
             }
