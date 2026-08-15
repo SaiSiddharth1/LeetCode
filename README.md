@@ -85,6 +85,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
@@ -107,6 +108,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -233,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
