@@ -31,6 +31,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
@@ -94,6 +95,7 @@
 | [0455-assign-cookies](https://github.com/SaiSiddharth1/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -119,6 +121,7 @@
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiSiddharth1/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -131,6 +134,7 @@
 | [0036-valid-sudoku](https://github.com/SaiSiddharth1/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
