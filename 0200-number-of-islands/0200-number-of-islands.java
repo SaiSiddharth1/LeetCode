@@ -10,10 +10,10 @@ class Solution {
         int c = 0;
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
-                if(grid[i][j] == '1' && visited[i][j] == 0){
+                if(visited[i][j] == 0 && grid[i][j] == '1'){
                     visited[i][j] = 1;
-                    bfs(i,j,grid);
                     c++;
+                    bfs(i,j,grid);
                 }
             }
         }
@@ -21,7 +21,6 @@ class Solution {
     }
 
     void bfs(int i,int j,char[][] g){
-        g[i][j] = '0';
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{i,j});
         while(!q.isEmpty()){
@@ -35,7 +34,6 @@ class Solution {
                 if(check(newX,newY) && g[newX][newY] == '1'){
                     if(visited[newX][newY] == 0){
                         visited[newX][newY] = 1;
-                        g[newX][newY] = '0';
                         q.add(new int[]{newX,newY});
                     }
                 }
