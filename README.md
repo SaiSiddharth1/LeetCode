@@ -31,6 +31,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -70,6 +71,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -93,6 +95,7 @@
 | [0120-triangle](https://github.com/SaiSiddharth1/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -141,6 +144,7 @@
 | [0063-unique-paths-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -231,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
