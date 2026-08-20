@@ -38,6 +38,7 @@
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
@@ -141,6 +144,7 @@
 | [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -229,6 +233,7 @@
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
