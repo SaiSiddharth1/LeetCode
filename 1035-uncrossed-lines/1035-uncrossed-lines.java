@@ -1,23 +1,20 @@
 class Solution {
-    int[][] memo;
+    int[][] tabu;
     public int maxUncrossedLines(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
-        memo = new int[n + 1][m + 1];
-        for(int[] arr : memo){
-            Arrays.fill(arr,-1);
+        tabu = new int[n + 1][m + 1];
+        for(int i = 1 ; i <= n ; i++){
+            for(int j = 1 ; j <= m ; j++){
+                if(nums1[i - 1] == nums2[j - 1]){
+                    tabu[i][j] =  1 + tabu[i-1][j-1];
+                    continue;
+                }
+                int l = tabu[i-1][j];
+                int r = tabu[i][j-1];
+                tabu[i][j] =  Math.max(l,r);
+            }
         }
-        return solve(n,m,nums1,nums2);
-    }
-
-    int solve(int i,int j,int[] nums1,int[] nums2){
-        if(i == 0 || j == 0) return 0;
-        if(memo[i][j] != -1) return memo[i][j];
-        if(nums1[i - 1] == nums2[j - 1]){
-            return memo[i][j] =  1 + solve(i-1,j-1,nums1,nums2);
-        }
-        int l = solve(i-1,j,nums1,nums2);
-        int r = solve(i,j-1,nums1,nums2);
-        return memo[i][j] =  Math.max(l,r);
+        return tabu[n][m];
     }
 }
