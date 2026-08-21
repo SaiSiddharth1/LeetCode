@@ -6,7 +6,7 @@ class Solution {
         Arrays.fill(color,-1);
         for(int i = 0 ; i < n ; i++){
             if(color[i] == -1){
-                if(!bfs(i,graph)){
+                if(!dfs(i,0,graph)){
                     return false;
                 }
             }
@@ -15,20 +15,13 @@ class Solution {
         return true;
     }
 
-    boolean bfs(int idx,int[][] graph){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(idx);
-        color[idx] = 0;
-        while(!q.isEmpty()){
-            int node = q.remove();
-            for(int i : graph[node]){
-                if(color[i] == -1){
-                    color[i] = 1 - color[node];
-                    q.add(i);
-                }else if(color[i] == color[node]){
-                    return false;
-                }
+    boolean dfs(int idx,int c,int[][] graph){
+        color[idx] = c;
+        for(int i : graph[idx]){
+            if(color[i] == -1){
+                if(!dfs(i,1-c,graph)) return false;
             }
+            else if(color[idx] == color[i]) return false;
         }
         return true; 
     }
