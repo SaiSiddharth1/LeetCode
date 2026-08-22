@@ -102,6 +102,7 @@
 | [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -192,6 +193,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -299,6 +302,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bitmask
@@ -374,11 +378,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
@@ -387,5 +393,10 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
