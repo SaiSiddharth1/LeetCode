@@ -101,6 +101,7 @@
 | [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/SaiSiddharth1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +366,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
