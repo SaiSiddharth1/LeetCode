@@ -117,6 +117,7 @@
 | [1035-uncrossed-lines](https://github.com/SaiSiddharth1/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Dynamic Programming
@@ -191,6 +192,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaiSiddharth1/LeetCode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Monotonic Stack
@@ -296,6 +299,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -370,12 +374,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SaiSiddharth1/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 <!---LeetCode Topics End-->
