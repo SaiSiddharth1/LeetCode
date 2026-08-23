@@ -41,6 +41,7 @@
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -86,6 +87,7 @@
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Array
@@ -267,6 +269,7 @@
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Minimum Spanning Tree
@@ -378,6 +381,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,4 +411,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
