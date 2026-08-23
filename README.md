@@ -32,6 +32,7 @@
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/SaiSiddharth1/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -74,6 +75,7 @@
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSiddharth1/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSiddharth1/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -260,6 +262,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
@@ -373,6 +376,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -399,4 +403,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SaiSiddharth1/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
