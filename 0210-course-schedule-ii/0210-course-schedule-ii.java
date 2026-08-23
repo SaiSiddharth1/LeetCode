@@ -1,48 +1,38 @@
 class Solution {
-    int[] visited;
-    int[] pathVisited;
-    List<Integer> order;
-    public int[] findOrder(int N, int[][] edges) {
-       List<List<Integer>> adj = new ArrayList<>();
-        for(int i = 0 ; i < N ; i++){
-            adj.add(new ArrayList<>());
+    public int[] findOrder(int n, int[][] p) {
+        int[] indegree = new int[n];
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0 ; i < n ; i++){
+            adj.add(new ArrayList<>());    
         }
-        for(int i = 0 ; i < edges.length ; i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            adj.get(v).add(u);
-        }
-        // code here
-        visited = new int[N];
-        pathVisited = new int[N];
-        order = new ArrayList<>();
-        for(int i = 0 ; i < N ; i++){
-         if(visited[i] == 0){
-             if(dfs(i,adj)){
-                 return new int[]{};
-             }
-         }
-        }
-        int[] ans = new int[N];
-        for(int i = 0 ; i < N ; i++){
-            ans[i] = order.get(N - i - 1);
-        }
-       return ans;
-     }
 
-     boolean dfs(int idx,List<List<Integer>> adj){
-         visited[idx] = 1;
-         pathVisited[idx] = 1;
-         for(int i : adj.get(idx)){
-             if(visited[i] == 1 && pathVisited[i] == 1) return true;
-             if(visited[i] == 0 ){
-                 if(dfs(i,adj)){
-                     return true;
-                 }
-             }
-         }
-         pathVisited[idx] = 0;
-         order.add(idx);
-         return false;
-     }
- }
+        for(int i = 0 ; i < p.length ; i++){
+            int u = p[i][0];
+            int v = p[i][1];
+            adj.get(v).add(u);
+            indegree[u]++;
+        }
+
+        Queue<Integer> q = new LinkedList<>();
+        for(int i = 0 ; i < n ; i++){
+            if(indegree[i] == 0){
+                q.add(i);
+            }
+        }
+        int c = 0;
+        int[] ans = new int[n];
+        while(!q.isEmpty()){
+            int node = q.remove();
+            ans[c] = node;
+            c++;
+            for(int x : adj.get(node)){
+                indegree[x]--;
+                if(indegree[x] == 0){
+                    q.add(x);
+                }
+            }
+        }
+        if(c == n) return ans;
+        return new int[]{};
+    }
+}
