@@ -18,7 +18,6 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             if(inDegree[i] == 0){
                 q.add(i);
-                safe.add(i);
             }
         }
         while(!q.isEmpty()){
@@ -26,12 +25,15 @@ class Solution {
             for(int x : adj.get(node)){
                 inDegree[x]--;
                 if(inDegree[x] == 0){
-                    q.add(x);
-                    safe.add(x);    
+                    q.add(x);  
                 }
             }
         }
-        Collections.sort(safe);
+        for(int i = 0 ; i < n ; i++){
+            if(inDegree[i] == 0){
+                safe.add(i);
+            }
+        }
         return safe;
     }
 }
