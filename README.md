@@ -29,6 +29,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaiSiddharth1/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0127-word-ladder](https://github.com/SaiSiddharth1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/SaiSiddharth1/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SaiSiddharth1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SaiSiddharth1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -225,6 +226,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiSiddharth1/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/SaiSiddharth1/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0127-word-ladder](https://github.com/SaiSiddharth1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/SaiSiddharth1/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
@@ -327,6 +329,7 @@
 | [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/SaiSiddharth1/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SaiSiddharth1/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/SaiSiddharth1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -424,4 +427,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/SaiSiddharth1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
