@@ -290,6 +290,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/SaiSiddharth1/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0342-power-of-four](https://github.com/SaiSiddharth1/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SaiSiddharth1/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Recursion
@@ -298,6 +299,7 @@
 | [0002-add-two-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0044-wildcard-matching](https://github.com/SaiSiddharth1/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/SaiSiddharth1/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0342-power-of-four](https://github.com/SaiSiddharth1/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0342-power-of-four](https://github.com/SaiSiddharth1/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SaiSiddharth1/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Ordered Set
