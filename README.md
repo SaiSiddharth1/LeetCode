@@ -51,6 +51,7 @@
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1035-uncrossed-lines](https://github.com/SaiSiddharth1/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/SaiSiddharth1/LeetCode/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -173,6 +175,7 @@
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
