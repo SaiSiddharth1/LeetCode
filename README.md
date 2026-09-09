@@ -48,6 +48,7 @@
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SaiSiddharth1/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/SaiSiddharth1/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -102,6 +103,7 @@
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SaiSiddharth1/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SaiSiddharth1/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SaiSiddharth1/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -164,6 +166,7 @@
 | [0518-coin-change-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/SaiSiddharth1/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiSiddharth1/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1035-uncrossed-lines](https://github.com/SaiSiddharth1/LeetCode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -299,6 +302,7 @@
 | [0547-number-of-provinces](https://github.com/SaiSiddharth1/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SaiSiddharth1/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SaiSiddharth1/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SaiSiddharth1/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -466,9 +470,14 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SaiSiddharth1/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/SaiSiddharth1/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
