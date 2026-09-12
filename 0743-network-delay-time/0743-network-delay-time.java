@@ -21,7 +21,7 @@ class Solution {
             int[] curr = pq.remove();
             int wt = curr[0];
             int node = curr[1];
-
+            if(wt > dist[node]) continue;
             for(int[] neighbour : adj.get(node)){
                 int nNode = neighbour[0];
                 int nWt = neighbour[1];
