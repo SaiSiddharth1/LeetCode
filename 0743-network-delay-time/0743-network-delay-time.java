@@ -15,17 +15,20 @@ class Solution {
         }
 
         dist[k] = 0;
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->a[0] - b[0]);
+        TreeSet<int[]> pq = new TreeSet<>((a,b) -> {
+            if(a[0] != b[0]) return a[0] - b[0];
+            return a[1] - b[1];
+        });;
         pq.add(new int[]{0,k});
         while(!pq.isEmpty()){
-            int[] curr = pq.remove();
+            int[] curr = pq.pollFirst();
             int wt = curr[0];
             int node = curr[1];
-            if(wt > dist[node]) continue;
             for(int[] neighbour : adj.get(node)){
                 int nNode = neighbour[0];
                 int nWt = neighbour[1];
                 if(wt + nWt < dist[nNode]){
+                    pq.remove(new int[]{dist[nNode],nNode});   
                     dist[nNode] = wt + nWt; 
                     pq.add(new int[]{dist[nNode],nNode});
                 }
