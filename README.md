@@ -272,6 +272,7 @@
 | [0051-n-queens](https://github.com/SaiSiddharth1/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/SaiSiddharth1/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SaiSiddharth1/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0126-word-ladder-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0494-target-sum](https://github.com/SaiSiddharth1/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SaiSiddharth1/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -321,6 +322,7 @@
 | [0002-add-two-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/SaiSiddharth1/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
+| [0089-gray-code](https://github.com/SaiSiddharth1/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0342-power-of-four](https://github.com/SaiSiddharth1/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSiddharth1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SaiSiddharth1/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -346,6 +348,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/SaiSiddharth1/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SaiSiddharth1/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0137-single-number-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0342-power-of-four](https://github.com/SaiSiddharth1/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
