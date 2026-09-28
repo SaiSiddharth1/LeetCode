@@ -220,6 +220,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaiSiddharth1/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/SaiSiddharth1/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiSiddharth1/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@
 | [1092-shortest-common-supersequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiSiddharth1/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -491,4 +493,8 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/SaiSiddharth1/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiSiddharth1/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
