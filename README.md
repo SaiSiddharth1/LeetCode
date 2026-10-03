@@ -381,6 +381,7 @@
 | [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiSiddharth1/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0686-repeated-string-match](https://github.com/SaiSiddharth1/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiSiddharth1/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -505,18 +506,22 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/SaiSiddharth1/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/SaiSiddharth1/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/SaiSiddharth1/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/SaiSiddharth1/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
