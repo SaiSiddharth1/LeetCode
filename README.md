@@ -378,6 +378,7 @@
 | [0127-word-ladder](https://github.com/SaiSiddharth1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/SaiSiddharth1/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiSiddharth1/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -503,14 +504,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiSiddharth1/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/SaiSiddharth1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
