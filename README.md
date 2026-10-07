@@ -175,6 +175,7 @@
 | [1143-longest-common-subsequence](https://github.com/SaiSiddharth1/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiSiddharth1/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SaiSiddharth1/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SaiSiddharth1/LeetCode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -314,6 +315,7 @@
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaiSiddharth1/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaiSiddharth1/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SaiSiddharth1/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +440,7 @@
 | [0207-course-schedule](https://github.com/SaiSiddharth1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SaiSiddharth1/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SaiSiddharth1/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SaiSiddharth1/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,11 +495,13 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/SaiSiddharth1/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SaiSiddharth1/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SaiSiddharth1/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/SaiSiddharth1/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaiSiddharth1/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SaiSiddharth1/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
