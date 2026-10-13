@@ -1,43 +1,37 @@
 class Solution {
-    public int networkDelayTime(int[][] times, int n, int k) {
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist,(int) 1e9);
-        List<List<int[]>> adj = new ArrayList<>();
-        for(int i = 0 ; i <= n ; i++){
-            adj.add(new ArrayList<>());
+    public int networkDelayTime(int[][] times, int n, int via) {
+        int INF = (int) 1e9;
+        int[][] dist = new int[n+1][n+1];
+        for(int i = 1 ; i <= n ; i++){
+            for(int j = 1 ; j <= n ; j++){
+                if(i == j){
+                    dist[i][j] = 0;
+                    continue;
+                }
+                dist[i][j] = INF;
+            }
         }
 
-        for(int[] time : times){
-            int u = time[0];
-            int v = time[1];
-            int wt = time[2];
-            adj.get(u).add(new int[]{v,wt});
+        for(int[] arr : times){
+            int u = arr[0];
+            int v = arr[1];
+            int wt = arr[2];
+            dist[u][v] = wt; 
         }
 
-        dist[k] = 0;
-        TreeSet<int[]> pq = new TreeSet<>((a,b) -> {
-            if(a[0] != b[0]) return a[0] - b[0];
-            return a[1] - b[1];
-        });;
-        pq.add(new int[]{0,k});
-        while(!pq.isEmpty()){
-            int[] curr = pq.pollFirst();
-            int wt = curr[0];
-            int node = curr[1];
-            for(int[] neighbour : adj.get(node)){
-                int nNode = neighbour[0];
-                int nWt = neighbour[1];
-                if(wt + nWt < dist[nNode]){
-                    pq.remove(new int[]{dist[nNode],nNode});   
-                    dist[nNode] = wt + nWt; 
-                    pq.add(new int[]{dist[nNode],nNode});
+        for(int k = 1 ; k <= n ; k++){
+            for(int i = 1 ; i <= n ; i++){
+                for(int j = 1 ; j <= n ; j++){
+                    dist[i][j] = Math.min(dist[i][j],dist[i][k] + dist[k][j]);
                 }
             }
         }
-        int max = 0;
+
+        int ans = 0;
         for(int i = 1 ; i <= n ; i++){
-            max = Math.max(dist[i],max);
+            if(dist[via][i] == INF) return -1;
+            ans = Math.max(ans,dist[via][i]);
         }
-        return (max == (int) 1e9) ? -1 : max; 
+        return ans;
     }
 }
