@@ -14,8 +14,25 @@
  * }
  */
 class Solution {
+    private int ans = 0;
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p == null || q == null) return p == q;
-        return (p.val == q.val && isSameTree(p.left,q.left) && isSameTree(p.right,q.right));
+        solve(p,q);
+        if(ans == -1) return false;
+        return true;
+    }
+    void solve(TreeNode p, TreeNode q){
+        if(p == null && q == null){ 
+                return; 
+        }
+        if((p == null && q != null) || (p != null && q == null)){
+            ans = -1;
+            return;
+        }
+        if(p.val != q.val) {
+            ans = -1;
+            return;
+        }
+        solve(p.left,q.left);
+        solve(p.right,q.right);
     }
 }
